@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlbumsApp</string>
+    <string name="list_is_empty">Liste vide</string>
+    <string name="loading_text">chargement...</string>
+    <string name="album_title_text">Titre de l\'album:</string>
+</resources>
